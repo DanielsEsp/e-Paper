@@ -12,4 +12,11 @@ https://github.com/user-attachments/assets/fc35705b-1e6d-43ef-bfa4-6b481375c12b
 
 Adaptation de la station Open Meteo version TFT pour un ecran e-Paper 4,26'.
 
+Montage integre dans un cadre photo d'une grande marque Suedoise
+
+Le code publie est la base prototype d'une fusion de deux de mes projets.
+Il est surement truffe de doublons memoires et sera re-publie dans une version plus optimisee.
+
+
+
 
