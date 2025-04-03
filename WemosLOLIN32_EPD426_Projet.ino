@@ -47,8 +47,8 @@
 
 
 #include <WiFi.h>
-          const char * ssid="Bbox-E295749E-2,4GHz";
-          const char * wifipw="Mb&2427242711";
+          const char * ssid="@@@@@@@@@@@@@@@";
+          const char * wifipw="#############";
           int wifitime, esprestart;
 
 #include <HTTPClient.h>
